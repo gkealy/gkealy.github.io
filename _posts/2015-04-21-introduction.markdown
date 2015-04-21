@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Introdcution
+title:  Introduction
 date:   2015-04-21
 ---
 Thankfully, I have moved to a position of known ignorance where the United Sates is concerned. Despite years of consuming American media, I often feel like a duck out of water here in San Antonio.
 
-Many a time have I looked down on the American tourist in Dublin. They seem stupid and uncultured. Why, if they speak the same language, do they seem so clueless?
+Many a time have I looked down on American tourists in Dublin. They seem stupid and uncultured. Why, if they speak the same language, do they seem so clueless?
 
 As it turns out, language is just one facet of culture, and it's culture that dictates the ease with which one can navigate .. well, the culture. Luckily, my American hosts are more tolerant of me than I was of their wandering compatriots.
 
