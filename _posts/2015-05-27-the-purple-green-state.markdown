@@ -3,7 +3,7 @@ layout: post
 title:  The purple green State
 date:   2015-05-27
 ---
-Here are some things I leart about Texas this week:
+Here are some things I learnt about Texas this week:
 
 1 Fracking caused earthquakes last year in [Azle](http://www.smu.edu/News/2015/earthquakes-azle-report-21april2015)
 
