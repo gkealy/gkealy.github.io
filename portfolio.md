@@ -5,11 +5,11 @@ permalink: /portfolio/
 ---
 
 ### Branding/Promotion
-![Instituto Cervantes Ad](/imgs/miro.jpg)
+![Instituto Cervantes Ad](/img/miro.jpg)
 
-![Spire Productions Logo](/imgs/camera-4_sq.png)
+![Spire Productions Logo](/img/camera-4_sq.png)
 
-![Comedy club for Kids Flyer](/imgs/sohoflyer1.png)
+![Comedy club for Kids Flyer](/img/sohoflyer1.png)
 
 
 ### Websites
